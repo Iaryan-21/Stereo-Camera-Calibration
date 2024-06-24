@@ -90,3 +90,7 @@ Each dataset contains two images of the same scene captured from different camer
 **c.** Utilize the disparity information to compute depth values for each pixel.
 
 **d.** Generate a depth image representing the spatial dimensions of the scene and save it as grayscale and color using heat map conversion for visualization.
+
+#### OUTPUT: 
+
+![Rerojected Points](https://github.com/Iaryan-21/Stereo-Camera-Calibration/blob/main/re_proje_img.png)
