@@ -92,5 +92,10 @@ Each dataset contains two images of the same scene captured from different camer
 **d.** Generate a depth image representing the spatial dimensions of the scene and save it as grayscale and color using heat map conversion for visualization.
 
 #### OUTPUT: 
-
-![Rerojected Points](https://github.com/Iaryan-21/Stereo-Camera-Calibration/blob/main/re_proje_img.png)
+### 1) Perform single camera calibration using either a chessboard or circular pattern.
+![Rerojected Points](https://github.com/Iaryan-21/Stereo-Camera-Calibration/blob/main/re_proje_img.png) 
+### 2) Pipeline for Creating a Stereo Vision System
+a) Epipolar Lines
+![Epipolar Lines](https://github.com/Iaryan-21/Stereo-Camera-Calibration/blob/main/epi_lines.png)
+b) Depth and Disparity Visualization
+![disparity](https://github.com/Iaryan-21/Stereo-Camera-Calibration/blob/main/download.png)
